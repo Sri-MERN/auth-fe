@@ -1,3 +1,4 @@
+*TestCase login as admin aji@gmail.com and pw-Admin@321
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
